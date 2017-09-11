@@ -1,0 +1,2 @@
+# hpccoin
+HPC Coin Wallet
